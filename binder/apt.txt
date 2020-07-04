@@ -1,0 +1,11 @@
+# APT packages to install in Docker files
+
+# This is needed for drawing trees
+graphviz
+
+# Selenium
+firefox
+
+# Needed for constructing bc
+ed
+texinfo
