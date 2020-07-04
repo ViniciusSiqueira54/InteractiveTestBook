@@ -3,7 +3,7 @@ See [repo2docker](https://repo2docker.readthedocs.io/en/latest/) for details.
 
 The configuration files are:
 
-* apt.txt - APT Packages (= Linux programs) used
+* apt.txt - APT Packages used
 * environment.yml - Python packages used
 * requirements.txt - more Python packages used
 
