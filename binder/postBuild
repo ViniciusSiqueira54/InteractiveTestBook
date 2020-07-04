@@ -10,6 +10,4 @@ jupyter nbextension enable exercise2/main --user
 
 # Trust notebooks such that users can see their HTML and JS output
 echo postBuild: Trusting notebooks ...
-jupyter trust notebooks/*.ipynb \
-    docs/notebooks/*.ipynb \
-    docs/beta/notebooks/*.ipynb
+jupyter trust notebooks/*.ipynb
