@@ -7,7 +7,7 @@
 This is a Kick-off of an interactive book to address software testing subjects.
 
 ## A book with multiple purposes
-you can use this book in different ways, for now we have been provided to ways to begin:
+you can use this book in different ways, for now we have been provided two ways to begin:
 * you can read the chapters in your browser; or
 * you can interact with the chapters as Jupyter Notebooks, with this you can edit or/and extend the code and execute this live in your browser.
 
