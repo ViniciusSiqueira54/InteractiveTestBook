@@ -2,8 +2,6 @@ name: BookEnvironment
 channels:
   - defaults
   - conda-forge
-  - anaconda-fusion
-  - anaconda-platform
 dependencies:
   - markdown
   - notedown
