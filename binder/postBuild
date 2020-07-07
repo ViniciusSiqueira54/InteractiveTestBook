@@ -6,7 +6,7 @@
 echo postBuild: Installing Jupyter extensions...
 jupyter contrib nbextension install --user
 jupyter nbextension enable toc2/main --user
-jupyter nbextension enable exercise2/main --user
+#jupyter nbextension enable exercise2/main --user
 
 # Trust notebooks such that users can see their HTML and JS output
 echo postBuild: Trusting notebooks ...
