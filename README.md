@@ -20,4 +20,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies nisl an
 ## About the Authors
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies nisl ante, quis tempus turpis tristique sit amet. Donec purus erat, finibus et egestas eget, viverra ac sapien. Ut tristique molestie fringilla. Aenean ac arcu et leo bibendum tempor. Mauris tristique efficitur auctor. Vivamus et odio sem. Morbi consectetur lorem vitae malesuada pharetra. Praesent id arcu quis est luctus vestibulum. Nullam elementum malesuada egestas.
 
+## TODO
 
+- [ ] Fix search tool
+- [ ] Check Twitter PlugIn
+- [ ] Automate the addition of new chapters
