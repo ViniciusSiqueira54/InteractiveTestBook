@@ -1,7 +1,7 @@
 # Test Frameworks: JUnit+Hamcrest
 
 ## Vídeo Aula 
-[![Test Frameworks: JUnit+Hamcrest](https://youtu.be/GeQGAlpsUTk/0.jpg)](https://youtu.be/GeQGAlpsUTk "Test Frameworks: JUnit+Hamcrest")
+[![Test Frameworks: JUnit+Hamcrest](ytpic.jpg)](https://youtu.be/GeQGAlpsUTk "Test Frameworks: JUnit+Hamcrest")
 
 ## Definições
 
