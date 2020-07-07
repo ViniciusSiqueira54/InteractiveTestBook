@@ -53,7 +53,7 @@ def bubbleSort(alist):
 bubbleSort(alist)
 print(alist)
 ```
-Veja essse exemplo em execução pelo [binder](https://hub.gke.mybinder.org/user/viniciussiqueir-ractivetestbook-nw0eizlr/notebooks/chapters/Cap_00_exemplo.ipynb). Se o binder não tiver sido ainda inicializado pra esse livro, por favor inicializar antes, [iniciar binder](https://mybinder.org/v2/gh/ViniciusSiqueira54/InteractiveTestBook/master). 
+Veja essse exemplo em execução pelo [binder](https://mybinder.org/v2/gh/ViniciusSiqueira54/InteractiveTestBook/master), *Cap_00_exemplo*. 
 
 # Exemplo de titulo h2
 teste de titulo h2
