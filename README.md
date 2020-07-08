@@ -20,6 +20,42 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies nisl an
 ## About the Authors
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies nisl ante, quis tempus turpis tristique sit amet. Donec purus erat, finibus et egestas eget, viverra ac sapien. Ut tristique molestie fringilla. Aenean ac arcu et leo bibendum tempor. Mauris tristique efficitur auctor. Vivamus et odio sem. Morbi consectetur lorem vitae malesuada pharetra. Praesent id arcu quis est luctus vestibulum. Nullam elementum malesuada egestas.
 
+## New Chapters
+
+To add new chapters to our books, you can submit a new Pull Request to our project. In this PR is necessary:
+
+### Add new file
+
+	1. Add the markdown file (the new chapter content) on the `#/docs/chapters`.
+
+		For example, the directory structure is as follows:
+
+			```text
+			.
+			└── docs
+			    └── chapters
+			        ├── cap00.md
+			        ├── cap01.md
+			        ├── cap02.md
+			        └── NewCapEg.md
+			```
+
+### Update Sidebar
+
+	2. Update the `_sidebar.md` file to show the new chapter added on the sidebar menu
+
+Create the `_sidebar.md`:
+
+```markdown
+* <!-- The Interactive Book -->
+    * [Aprendendo Markdown](chapters/cap00.md "Introdução")
+    * [JUnit + Hamcrest](chapters/cap01.md "Cap 01")
+    * [Capítulo 2](chapters/cap02.md "Cap 02")
+    * [The New Chapter](NewCapEg.md "New Chapter")
+    * [Siga-nos no Twitter](chapters/Twitter.md "Siga-nos")
+```
+
+
 ## TODO
 
 - [ ] Fix search tool
