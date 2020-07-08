@@ -22,29 +22,27 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies nisl an
 
 ## New Chapters
 
-To add new chapters to our books, you can submit a new Pull Request to our project. In this PR is necessary:
+To add new chapters to our book, you can submit a new Pull Request to our project. In this PR is necessary:
 
 ### Add new file
 
-	1. Add the markdown file (the new chapter content) on the `#/docs/chapters`.
+1. Add the markdown file (the new chapter content) on the `#/docs/chapters`.
 
-		For example, the directory structure is as follows:
+For example, the directory structure is as follows:
 
-			```text
-			.
-			└── docs
-			    └── chapters
-			        ├── cap00.md
-			        ├── cap01.md
-			        ├── cap02.md
-			        └── NewCapEg.md
-			```
+```text
+	.
+	└── docs
+	    └── chapters
+	        ├── cap00.md
+	        ├── cap01.md
+	        ├── cap02.md
+	        └── NewCapEg.md
+```
 
 ### Update Sidebar
 
-	2. Update the `_sidebar.md` file to show the new chapter added on the sidebar menu
-
-Create the `_sidebar.md`:
+2. Update the `_sidebar.md` file to show the new chapter added on the sidebar menu:
 
 ```markdown
 * <!-- The Interactive Book -->
