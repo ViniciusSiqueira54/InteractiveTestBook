@@ -62,4 +62,6 @@ For example, the directory structure is as follows:
 
 ## References
 
-Good materials on Mutation testing can be found in the literature, some of which were used as the basis for the elaboration of this chapter, such as the survey published by <cite data-cite="5487526">Jia and Harman (2011)</cite>, <cite data-cite="ma2005description">Ma and Offutt (2005)</cite> and <cite data-cite="6825653">Dereziska and Halas (2014)</cite> publications that also talk about mutation operators, among other works such as those by <cite data-cite="6613487">Madeyski et al (2014)</cite>, <cite data-cite="frankl1997all">Frankl et al (1997)</cite>, and <cite data-cite="papadakis2019chapter">Papadakis et al (2019)</cite>.
+Good materials on Mutation testing can be found in the literature, some of which were used as the basis for the elaboration of this chapter, such as the survey published by Jia and Harman (2011){cite}`5487526`, Ma and Offutt (2005){cite}`ma2005description` and Dereziska and Halas (2014){cite}`6825653` publications that also talk about mutation operators, among other works such as those by Madeyski et al (2014){cite}`6613487`, Frankl et al (1997){cite}`frankl1997all`, and Papadakis et al (2019){cite}`papadakis2019chapter`.
+
+
